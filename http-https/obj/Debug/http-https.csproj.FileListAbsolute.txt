@@ -1,0 +1,6 @@
+c:\users\mbb\documents\visual studio 2015\Projects\http-https\http-https\bin\Debug\http-https.exe.config
+c:\users\mbb\documents\visual studio 2015\Projects\http-https\http-https\bin\Debug\http-https.exe
+c:\users\mbb\documents\visual studio 2015\Projects\http-https\http-https\bin\Debug\http-https.pdb
+c:\users\mbb\documents\visual studio 2015\Projects\http-https\http-https\obj\Debug\http-https.csprojResolveAssemblyReference.cache
+c:\users\mbb\documents\visual studio 2015\Projects\http-https\http-https\obj\Debug\http-https.exe
+c:\users\mbb\documents\visual studio 2015\Projects\http-https\http-https\obj\Debug\http-https.pdb
